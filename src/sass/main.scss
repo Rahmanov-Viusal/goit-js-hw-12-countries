@@ -1,0 +1,13 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+// pnotify/core/dist/BrightTheme.css';
+// Стили для файла с примером HTML-фрагмента
+
+@import './_body';
+@import './_input';
+@import './_country-card.scss';
+@import './_country-list.scss';
+@import '@pnotify/core/dist/PNotify.css';
+@import '@pnotify/core/dist/BrightTheme.css';
